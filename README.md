@@ -1,4 +1,7 @@
-### >> Hello, my name is Pedro and I am a student at the Federal Institute of Piauí (IFPI) 
+### >> Hello, my name is Pedro Venâncio
+
+- 📖 I am a student at the Federal Institute of Piauí (IFPI)
+- 🔍 programming enthusiast
 
  <div>
   <a href="https://github.com/PedroVenanci0">
