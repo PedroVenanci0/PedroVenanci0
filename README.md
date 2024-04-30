@@ -5,8 +5,7 @@
 
  <div>
   <a href="https://github.com/PedroVenanci0">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=PedroVenanci0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroVenanci0&layout=compact&langs_count=16&theme=tokyonight"/>
+  <img height="195em" src="https://github-readme-stats.vercel.app/api?username=PedroVenanci0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 
 <div style="display: inline_block"><br>
