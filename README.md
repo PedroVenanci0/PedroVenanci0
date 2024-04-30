@@ -1,9 +1,9 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=PedroVenanci0&show_icons=true&theme=radical">
 
-<p style="color: blue;">Hello, my name is Pedro Venâncio
+ ### >> Hello, my name is Pedro Venâncio
 
 - 📖 I am a student at the Federal Institute of Piauí (IFPI)       
-- 🔍 programming enthusiast <span style="color: red;">A</span></p>
+- 🔍 programming enthusiast
 
  <div>
   <a href="https://github.com/PedroVenanci0">
