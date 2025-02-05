@@ -12,7 +12,8 @@
 <div style="display: inline_block"><br>
   <img width="54" height="54" src="https://img.icons8.com/nolan/54/javascript.png" alt="javascript"/>
   <img width="54" height="54" src="https://img.icons8.com/nolan/54/python.png" alt="python"/>
-  <img width="54" height="54" src="https://img.icons8.com/nolan/54/godot.png" alt="godot"/>                 
+  <img width="54" height="54" src="https://img.icons8.com/nolan/54/godot.png" alt="godot"/>
+  <img width="54" height="54" src="https://img.icons8.com/?size=100&id=teULeYjvuR4y&format=png&color=000000" alt="C"/> 
 </div>
   
   ##
