@@ -14,8 +14,7 @@
   <img width="54" height="54" src="https://img.icons8.com/nolan/54/python.png" alt="python"/>
   <img width="54" height="54" src="https://img.icons8.com/nolan/54/godot.png" alt="godot"/>
   <img width="54" height="54" src="https://img.icons8.com/?size=100&id=teULeYjvuR4y&format=png&color=000000" alt="C"/>
-  <img width="54" height="54" src="![image](https://github.com/user-attachments/assets/a832d816-7a00-4ad7-a272-8b23ed9f1cf2)
-" alt="godot"/>
+  <img width="54" height="54" src="![image](https://github.com/user-attachments/assets/a832d816-7a00-4ad7-a272-8b23ed9f1cf2)" alt="TS"/>
 </div>
   
   ##
