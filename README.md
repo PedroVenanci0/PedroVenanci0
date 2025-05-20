@@ -8,9 +8,6 @@
  <div>
   <a href="https://github.com/PedroVenanci0">
 </div>
-
-<div style="display: inline_block"><br>
-</div>
   
   ##
 
