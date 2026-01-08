@@ -12,8 +12,6 @@ Apesar de já estar inserido no mercado, mantenho minha **fome de aprendizado** 
 
 - 💼 Atualmente trabalhando com desenvolvimento de software.
 - 🚀 Focado em entregar soluções robustas e escaláveis.
-- 🧠 **Mindset:** Aprendizado contínuo e adaptação rápida.
-
 <br>
 
 <div align="left">
